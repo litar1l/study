@@ -1,4 +1,4 @@
-# study
+My Awesome Project
 
 test
 fldfl
