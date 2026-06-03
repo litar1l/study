@@ -1,4 +1,4 @@
-My Awesome Project
+My Awesome Super Project
 
 test
 fldfl
